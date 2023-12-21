@@ -1,0 +1,15 @@
+numpy
+jsonargparse
+matplotlib
+scikit-learn
+tensorflow
+tensorflow_hub
+torch
+torch-geometric
+sentence-transformers
+transformers
+tqdm
+seaborn
+nltk
+networkx
+pathlib
